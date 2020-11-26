@@ -1,0 +1,7 @@
+**/.DS_Store
+kafka
+zookeeper
+spark-code
+.DS_Store
+/spark-streaming-app/Spark-streaming-simple-app/target/
+**/target
